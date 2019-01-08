@@ -17,8 +17,3 @@ title: Welcome
 </article>
 
 {% endfor %}
-
-
----
-
-hello
