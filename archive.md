@@ -17,3 +17,5 @@ title: Archive
 
 {% endfor %}
 
+[Download all posts](https://github.com/alex-esc/posts/archive/master.zip)
+
