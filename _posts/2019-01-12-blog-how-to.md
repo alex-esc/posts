@@ -38,21 +38,21 @@ To replicate this blog on your own you need a few things:
 
 1. A computer with an Internet connection, Windows, Mac & Linux are sported, the setup process can only be done on a computer, although writing posts can be done on a mobile device, to add a new blog entry you need a computer too.
 1. A GitHub account to set up your GitHub Pages Blog, your user name will be the url of your blog followed by the suffix `.github.io`, if your user name is `a-polar-bear` your blog url will be `a-polar-bear.github.io`, you can only make one blog with "custom" url per account, meaning if `a-polar-bear` wants to start a second blog called `honey` the blog will be created on `a-polar-bear.github.io/honey`.
-1. A Text editor your comfortable with, on it you will write all your posts, note that the text editor you choose must allow you to save your documents with any suffix you want, for example your text editor should be able to produce a document titled `doc.abc`, If your text editor forces you to use a specific format like `.pdf` `.docx` `.pages` you must search for another text editor that supports arbitrary suffixes.
+1. A Text editor your comfortable with, on it you will write all your posts, note that the text editor you choose must allow you to save your documents with any suffix you want, for example your text editor should be able to produce a document titled `doc.abc`, If your text editor forces you to use a specific format like `.pdf`, `.docx` or `.pages` you must search for another text editor that supports arbitrary suffixes.
 1. **[Optional]** Installing a program on your computer called _Jekyll_, this program helps you to preview your blog before uploading it to the Internet, if you don't need to preview your site you can ignore this step, Jekyll is the program that creates the blog but GitGub Pages already comes with it pre-installed.
-1. To upload your changes to the web you need a program that interacts with GitHub, there are two main options, you can install _GitHub Desktop_ (easy to understand and work with for beginners) or you can install the _git command line tool_ (it does essentially the same as the desktop version but it only works by using the command line, recommended for enthusiasts and programmers).
+1. **[Optional]** To upload your changes to the web you need a program that interacts with GitHub, there are two main options, you can install _GitHub Desktop_ (easy to understand and work with for beginners) or you can install the _git command line tool_ (it does essentially the same as the desktop version but it only works by using the command line, recommended for enthusiasts and programmers).
 
 ## This seems very technical, why not use tool X to build a blog?
 
 A few days ago I started my blog, so naturally I looked up videos on how to start a blog and I came across a video by The Minimalists, I consider myself a minimalist so I gave it a go and it was horrible. The video was beautifully produced but the content seemed anything but minimalist, Joshua Fields Millburn said strait up that you need to keep your credit card close by and then proceeded to buy a 125 dollar minimalist theme, that's 125 dollars for a website with black text with white background, then he instructed the viewer to install wordpress and on top of that you need google analytics, the jetpack wordpress SEO plugin, consider mailchimp (an extra 10 dollars a month for sending emails), sort out comments from another third party service and consider buying stock photos for populating your site. That advice wont get you a minimalist site but a bloated and expensive one.
 
-And as far as I can tell all site or blog building tools are bloat on top of bloat with horrible interfaces and unreasonable prices. The Minimalists video pitches the idea that making a blog used to be a web designer's game or a programmer's game but that changed because X platform makes it easy! and they just to give you a discount. Making a blog manually is not hard but rather the video is an advertisement. You won't need to program anything, I set everything up for you, you just need to setup the preset I made and add your blog name.
+And as far as I can tell all site or blog building tools are bloat on top of bloat with horrible interfaces and unreasonable prices. The Minimalists video pitches the idea that making a blog used to be a web designer's game or a programmer's game but that changed because X platform makes it easy! and they just to give you a discount. Making a blog manually is not hard like The Minimalists suggest on their video but rather the video is an advertisement. You won't need to program anything, I set everything up for you, you just need to setup the preset I made and add your blog name.
 
 
 
 ## Instructions - how to get your blog up an running (for dummies)
 
-> If you don't feel like reading all the instructions below I have a shorter version of the instructions down below.
+> If you don't feel like reading all the instructions below I have a shorter version of the instructions further down below.
 
 I made things easy for you, first you need to decide on the url of your blog. 
 
@@ -293,7 +293,7 @@ More advanced questions like:
 * How can I preview the changes before publishing?
 * How can I change the look of the blog?
 
-The answer to both ave too do with using Jekyll: The program responsible for building the site, to learn more about Jekyll take a look at these resources:
+The answer to both have too do with using Jekyll: The program responsible for building the site, to learn more about Jekyll take a look at these resources:
 
 
 * [Read the Jekyll manual](https://jekyllrb.com/docs/)
