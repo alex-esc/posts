@@ -314,6 +314,6 @@ The answer to both have too do with using Jekyll: The program responsible for bu
 
 [bsource]: https://github.com/alex-esc/posts
 
-## Conclusion
+## Conclusion.
 
 Starting a blog is not hard, GitHub Pages provides free hosting, Jekyll is free of charge too. The only thing standing between you and your future blog is your determination for sitting down and writing your blog posts. Spend 10-15 minutes following my setup tutorial, do the Markdown tutorial and start your blog today!
