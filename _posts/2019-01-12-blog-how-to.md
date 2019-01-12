@@ -50,7 +50,7 @@ And as far as I can tell all site or blog building tools are bloat on top of blo
 
 
 
-## Instructions - how to get your blog up an running (for dummies)
+## Instructions - how to get your blog up and running (for dummies)
 
 > If you don't feel like reading all the instructions below I have a shorter version of the instructions further down below.
 
