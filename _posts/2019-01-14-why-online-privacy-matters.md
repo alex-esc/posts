@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Online Privacy Matters - An Update"
+title: "Why Online Privacy Matters - An Update."
 ---
 
 On January 18th 2018 I started my personal website to publish my work, Ideally I would publish new original content as well as rebroadcasting my previous works, but back then I had a very slim catalog of personal projects.
