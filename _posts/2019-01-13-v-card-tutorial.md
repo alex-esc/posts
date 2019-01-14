@@ -73,7 +73,7 @@ We are writing this because we actually mean what's shown in the image below:
 
 If you look at them side by side its very easy to see the correlation because people understand address books and the concept of phone numbers, but computers are really dumb, they are truly stupid.
 
-![big dumb dumb](http://techchunks.com/wp-content/uploads/2010/06/Rrror-while-creating-Error-Report.jpg)
+![big dumb dumb](https://i.imgur.com/Xoln9du.png)
 
 So we have to hold their hand and explain them what we want them to do in the simplest way possible, meaning we have to write some code. Don't worry, this code will be super simple, no fancy variables or programing, none of that just simple code that you can easily understand and read out loud to anyone without any confusion.
 
