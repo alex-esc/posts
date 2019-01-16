@@ -35,3 +35,65 @@ Finally if you wish to be part of this project you can _become a member of Digit
 [book]: https://alex-esc.github.io/read.digitalrights/
 [bookgh]: https://github.com/alex-esc/digitalrights
 [bookrss]: https://alex-esc.github.io/read.digitalrights/updates.html
+
+
+
+
+<!--
+
+---
+layout: post
+title: "Our History"
+---
+
+_Digital Rights_ is 3 months old as of January 2018, but our efforts to spread the message of human rights applied on the Internet begun in early January 2018 with a blog post.
+
+
+# Timeline
+
+## January 18th 2018 
+
+Writing process begins about a blog post describing technology's role in society, this blog post was un-published due to the writing process taking longer than expected.
+
+## May 2018
+
+Project became influenced by the Cambridge Analytica controversy and it was spun off as a blog titled _"Why Online Privacy Matters"_ and the research process begun.
+
+## March 16th 2018
+
+Blog post grew in scope once again, it was re-purposed as a video series instead of a blog post.
+
+## April 4th 2018
+
+The project name became public on the author's website.
+
+## November 7th 2018
+
+The Video series _Why Online Privacy Matters_ grew into the first draft of the book _Ethics & Human Rights Applied On The Web_, said draft became public on this date.
+
+## November 26th 2018
+
+The non-profit organization _Digital Rights_ is born to support and spread the ideas of _Ethics & Human Rights Applied On The Web_, on this date our website was originally published and our social media accounts were created.
+
+## December 13-18 2018 
+
+First mayor re-branding of the look for our website using Libre Software, new logo, created website documentation, added terms of service and privacy policy and our project to guide newcomers to our topic had begun development.
+
+## January 14th 2019
+
+The original author of the blog post _Why Online Privacy Matters_ made an update post, on it he explains why the blog was never published and how it had evolved into _Digital Rights_.
+
+# Founding member
+
+
+
+
+
+
+
+# More to come!
+
+
+
+-->
+

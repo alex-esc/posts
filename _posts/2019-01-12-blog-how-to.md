@@ -239,11 +239,11 @@ All files ending in `.md` means that file uses Markdown to format the text.
 
 Your bloging workflow will depend on the tools you use, you have 2 main options at your disposal, you can:
 
-* Work entirely inside the web browser, this is the easier workflow but by only using the website to make your changes you will **miss out on the ability to** _preview your changes before you publish_ and every time you save your work it will be immediately published, meaning _you must write all your post in one go_.
+* Work entirely inside the web browser, this is the easier workflow but by only using the website to make your changes you will **miss out on the ability to** _preview your changes before you publish_ and every time you save your work it will be immediately published, meaning _you must write all your post in one go_ (for more info read _Push using the GutHub website_).
 
 or you can
 
-* Make your changes and write your blogs on your computer and use a program called _git_ to publish them to the web, git works by downloading a copy of your blog to your computer, you will make all the changes you need and until you click publish git will upload your local changes to the Internet, meaning you can experiment as mush as you want with the site without messing with the actual blog, this is the way I blog.
+* Make your changes and write your blogs on your computer and use a program called _git_ to publish them to the web, git works by downloading a copy of your blog to your computer, you will make all the changes you need and until you click publish git will upload your local changes to the Internet, meaning you can experiment as mush as you want with the site without messing with the actual blog, this is the method I use (for more info read _Push using Git_.).
 
 #### Push using the GutHub website.
 
