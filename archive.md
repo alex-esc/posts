@@ -19,3 +19,4 @@ title: Archive
 
 [Download all posts](https://github.com/alex-esc/posts/archive/master.zip)
 
+[All post in one page](all.md)

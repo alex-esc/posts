@@ -3,11 +3,11 @@ layout: default
 title: Welcome
 ---
 
-<center>
+
 
 ## Latest Post
 
-</center>
+
 
 
 {% for post in site.posts offset:1 %}
@@ -25,4 +25,4 @@ title: Welcome
 {% endfor %}
 
 
-Find older blog posts on the [archive]().
+Find older blog posts on the [archive](archive.md).

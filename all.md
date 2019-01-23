@@ -4,11 +4,11 @@ title: Welcome
 ---
 
 
-<center>
+
 
 ## All posts
 
-</center>
+
 
 {% for post in site.posts %}
 
