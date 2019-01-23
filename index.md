@@ -9,7 +9,10 @@ title: Welcome
 
 
 
+{% assign post = site.posts.first %}
 
+
+<!--
 {% for post in site.posts offset:1 %}
 
 <article class='post'>
@@ -23,6 +26,6 @@ title: Welcome
 </article>
 
 {% endfor %}
-
+-->
 
 Find older blog posts on the [archive](archive.md).
