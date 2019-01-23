@@ -12,9 +12,6 @@ title: Welcome
 {% for post in site.posts limit:1 %}
 
 
-
-
-
 <article class='post'>
   <h1 class='post-title'>
     <a href="{{ site.path }}{{ post.url }}">
@@ -28,4 +25,6 @@ title: Welcome
 {% endfor %}
 
 
-Find older blog posts on the [archive](archive.md).
+## More posts
+
+Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](feed.xml)_.

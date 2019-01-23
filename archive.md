@@ -3,7 +3,9 @@ layout: default
 title: Archive
 ---
 
-<h1>Archive</h1>
+# Archive
+
+Find a specific post here, to see all the posts in one place [click here](all.md), you can also [download the archive][dl] for offline view.
 
 {% for post in site.posts %}
 
@@ -17,6 +19,4 @@ title: Archive
 
 {% endfor %}
 
-[Download all posts](https://github.com/alex-esc/posts/archive/master.zip)
-
-[All post in one page](all.md)
+[dl]: https://github.com/alex-esc/posts/archive/master.zip
