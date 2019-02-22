@@ -56,3 +56,8 @@ It's really ironic how it is us humans that need to prove ourselves on the platf
 
 I acknowledge the world 'Ban' in the title is misleading, but I just want to call more attention to my project and it's ideas. I'll keep you updated on my twitter situation, thanks for reading!
 
+----
+
+If you can help, [please send me an email][e].
+
+[e]: https://alex-esc.github.io/en_us/contact
