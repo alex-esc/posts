@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "I was banned from Twitter."
+title: "I Was Banned From Twitter."
 ---
 
 If you follow my blog posts you might know about my project [`Digital Rights`][dr] , it's my attempt to become part of a wide discussion about social change and the future of technology.
