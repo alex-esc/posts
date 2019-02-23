@@ -54,10 +54,7 @@ I give Twitter the benefit of the doubt, its probably an algorithm picking me up
 
 It's really ironic how it is us humans that need to prove ourselves on the platforms we built, hopefully this account suspension is just another minor hurtle in my journey for tech better fit for people.
 
-I acknowledge the world 'Ban' in the title is misleading, but I just want to call more attention to my project and it's ideas. I'll keep you updated on my twitter situation, thanks for reading!
+I acknowledge the world 'Ban' in the title is misleading, but I just want to call more attention to my project and it's ideas. 
 
-----
+**Update**: My account has been restored, thanks for your support :)
 
-If you can help, [please send me an email][e].
-
-[e]: https://alex-esc.github.io/en_us/contact
