@@ -31,11 +31,11 @@ So lets take at the rules provided via the link, I'll show you the rules that I 
 
 Ok so lets go through them one by one, first off we have this rule:
 
-Under the Twitter rules an account is considered spam if it uses Twitter services via an unapproved program, app or client:
+Under the Twitter rules an account is considered spam if it uses Twitter services via an unapproved program, app or client.
 
 > Access [...] Twitter by any means [...] other than through our currently available, published interfaces that are provided by Twitter.
 
-Meaning you may only use Twitter using the Twitter app or web page, interestingly I exclusively use the Twitter web client, if you see my posts you'll find the majority were posted via "Twitter Web App"
+Meaning you may only use Twitter using the Twitter app or web page, interestingly I exclusively use the Twitter web client, if you see my posts you'll find the majority were posted via "Twitter Web App".
 
 More precisely I use Twitter with 'SlimSocial for Twitter', Slim social its just a wrapper around Twitter's mobile website and APIs. I use this app because it protects the users privacy because it acts as a middle man between the twitter website and my phone, preventing the Twitter web client from gathering data from my phone.
 
