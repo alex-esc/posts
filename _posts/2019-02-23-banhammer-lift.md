@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Free From The Bluebird & Could You Write Your Manifesto In A Tweet?"
+title: "Free From The Bluebird & Could You Write Your Manifesto In 280 Characters?"
 ---
 
 Update from the Twitter suspension, the ban hammer has been lifted! I got this response from Twitter via email:
@@ -20,7 +20,7 @@ Update from the Twitter suspension, the ban hammer has been lifted! I got this r
 So lets take at the rules provided via the link, I'll show you the rules that I interpret as relevant to my account's case:
 
 > ## Spam and Security
-> * Access or search, or attempt to access or search, Twitter by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter. Note that crawling Twitter is permissible if done in accordance with the provisions of the robots.txt file; however, scraping Twitter without our prior consent is expressly prohibited.
+> Access or search, or attempt to access or search, Twitter by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter. Note that crawling Twitter is permissible if done in accordance with the provisions of the robots.txt file; however, scraping Twitter without our prior consent is expressly prohibited.
 > * **Spam:** You may not use Twitter’s services for the purpose of spamming anyone. Spam is generally defined on Twitter as bulk or aggressive activity that attempts to manipulate or disrupt Twitter or the experience of users on Twitter to drive traffic or attention to unrelated accounts, products, services, or initiatives. Some of the factors that we take into account when determining what conduct is considered to be spamming include:
 > 
 >	* if you post duplicative or substantially similar content, replies, or mentions over multiple accounts or multiple duplicate updates on one account, or create duplicate or substantially similar accounts;
@@ -43,7 +43,7 @@ I suspect SlimSocial's shielding is being perceived by Twitter's algorithm as so
 
 The rules also stipulate that spam accounts also talk about the same topics and reply with multiple posts:
 
->	[Spaming consists of ... ] if you post duplicative or substantially similar content [and] if you send large numbers of unsolicited replies or mentions.
+> [Spaming consists of ... ] if you post duplicative or substantially similar content [and] if you send large numbers of unsolicited replies or mentions.
 
 Similar content and large replies seem like the epidemy of spam, but we musn't forget that a key point of spam is consent, what makes spam annoying isn't that you get tons of replies about one particular topic, spam is annoying when you get tons of replies about an irrelevant topic, un-wanted content is almost exclusively off topic: _It's the context that matters_.
 
@@ -64,6 +64,3 @@ Now enter the slippery slope for all kinds of public figures, companies, adverti
 We went from long term documents to practically all nation's leaders feuding on Twitter. The platforms we surround ourselves everyday tend to favor the fast foods of discussions, this is a legitimate problem and limitation of the current implementation for social media, platforms may intent to push long term connection but their selling features - their gimmicks - run contrary to these ideas and values. I'm not saying every page on the net should be it's own medium post or that short term content is inherently harmful to society, no what I'm trying to say is that we need a balance of both & heavily normalizing one over the other leads to big time problems.
 
 Coffeehouses and social media sites try to seek something from of us, they are designed to incentivize some behaviors over others, let's look back at ourselves and wonder if the rewards we encourage create a more desirable world, the decision to create the future should be a conscious one, let's stand up from the audience chair, stop being passive consequences from the world and put on our designer's hat, build new platforms and well I'm running out of characters, I'm at minus 8108 characters right now so ...... I'll see you around .... as long as I'm allowed on Twitter, bye!
-
-
-
