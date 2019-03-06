@@ -15,4 +15,4 @@ To request official comments means that the blog post will get it's own little s
 
 [Discuss on reddit](https://redd.it/ay29mh)
 
-[comments-request-reddit-profile]: https://www.reddit.com/message/compose/?to=jet_so&subject=COMMENT-BLOG-REQUEST&message=to%20request%20a%20comment%20section%20for%20a%20blog%20post%20use%20this%20PM%20preset,%20place%20the%20lint%20to%20the%20post%20you%20want%20to%20add%20comments%20to%20and%20I%20will%20create%20the%20post%20for%20you,%20put%20the%20link%20below%20this%20text:
+[comments-request-reddit-profile]: https://www.reddit.com/message/compose/?to=alex_esc&subject=COMMENT-BLOG-REQUEST&message=to%20request%20a%20comment%20section%20for%20a%20blog%20post%20use%20this%20PM%20preset,%20place%20the%20lint%20to%20the%20post%20you%20want%20to%20add%20comments%20to%20and%20I%20will%20create%20the%20post%20for%20you,%20put%20the%20link%20below%20this%20text:
