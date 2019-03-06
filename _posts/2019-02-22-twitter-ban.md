@@ -60,3 +60,5 @@ I acknowledge the world 'Ban' in the title is misleading, but I just want to cal
 
 **Update**: My account has been restored, thanks for your support :)
 
+[Discuss on reddit](https://redd.it/atna2i)
+
