@@ -13,6 +13,6 @@ Let's say that there are no comments available on a post and you'd like to avoid
 
 To request official comments means that the blog post will get it's own little space on reddit via my official reddit profile, to request official comments send me a reddit PM or [click here][comments-request-reddit-profile].
 
-[Discuss on reddit][]
+[Discuss on reddit][https://redd.it/ay29mh]
 
 [comments-request-reddit-profile]: https://www.reddit.com/message/compose/?to=jet_so&subject=COMMENT-BLOG-REQUEST&message=to%20request%20a%20comment%20section%20for%20a%20blog%20post%20use%20this%20PM%20preset,%20place%20the%20lint%20to%20the%20post%20you%20want%20to%20add%20comments%20to%20and%20I%20will%20create%20the%20post%20for%20you,%20put%20the%20link%20below%20this%20text:
