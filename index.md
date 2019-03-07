@@ -29,6 +29,22 @@ title: Welcome
 
 Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](feed.xml)_.
 
+
+{% for post in site.posts limit:5 %}
+
+
+<article class='post'>
+  <h1 class='post-title'>
+    <a href="{{ site.path }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h1>
+  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+  {{ post.content | strip_html | truncatewords: 50 }} ...
+</article>
+
+{% endfor %}
+
 All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
 
 
