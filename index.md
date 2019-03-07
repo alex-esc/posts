@@ -30,7 +30,7 @@ title: Welcome
 Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](feed.xml)_.
 
 
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:5 offset:1 %}
 
 
 <article class='post'>
@@ -40,7 +40,7 @@ Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](fe
     </a>
   </h1>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  {{ post.content | strip_html | truncatewords: 50 }} ...
+  {{ post.content | strip_html | truncatewords: 50 }}
 </article>
 
 {% endfor %}
