@@ -3,7 +3,7 @@ layout: "post"
 title: "Windows 10 is too clunky, so I decided to fix it and enhance my workflow."
 ---
 
-If we've met in life you probably know me as the guy with a weird laptop. My computer was a complete mess, not because it was missing a key or the screen was cracked, my computer's hardware was doing just fine, the problem was my setup. I love tinkering with my computer, trying out new programs, changing the icon-pack, alternative shells; I tried it all at one point or another. Why? because I find it fun, I usually get some confused looks on my screen but I was doing no harm, or at least I thought at the time.
+If we've met in life you probably know me as the guy with a weird laptop.<!--more--> My computer was a complete mess, not because it was missing a key or the screen was cracked, my computer's hardware was doing just fine, the problem was my setup. I love tinkering with my computer, trying out new programs, changing the icon-pack, alternative shells; I tried it all at one point or another. Why? because I find it fun, I usually get some confused looks on my screen but I was doing no harm, or at least I thought at the time.
 
 Entering university made it clear, the victim of my endless tweaks was my time and productivity, so from then onwards I set in place a new philosophy for my computer setup: the computer is a tool and the user should have the power to use it effectively to achieve his or her goals with as little input as possible.
 

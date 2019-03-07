@@ -34,11 +34,11 @@ Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](fe
 
 
 <article class='post'>
-  <h1 class='post-title'>
+  <h3>
     <a href="{{ site.path }}{{ post.url }}">
       {{ post.title }}
     </a>
-  </h1>
+  </h3>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
   {{ post.content | strip_html | truncatewords: 50 }}
 </article>

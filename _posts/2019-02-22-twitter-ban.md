@@ -5,6 +5,8 @@ title: "I Was Banned From Twitter."
 
 **Update**: My account has been restored, thanks for your support :)
 
+<!--more-->
+
 If you follow my blog posts you might know about my project [`Digital Rights`][dr] , it's my attempt to become part of a wide discussion about social change and the future of technology.
 
 [Unlike other public figures][at], I don't frame the technology story in terms of black and white, some privacy advocates speak of Google or Facebook as the clear enemy, they may raise interesting points about Internet addiction and monopoly like behavior but they forget about the wider ethical, social and economical picture.

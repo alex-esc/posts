@@ -5,6 +5,8 @@ title: "Hello 2019"
 
 This is my first blog post, hooray! 
 
+<!--more-->
+
 2018 was a great year for me: I started university, got into playing music, making websites, scripting and I begun writing my first book. Entering university demands drastic changes, but I feel like I didn't fully break out of some bad habits and I did not attempt to correct others, so much so that I can feel myself slowly sinking into a rut and I want to change that by changing myself.
 
 New years day passed by so quickly and like every other year I didn't set any resolutions, every year I tell myself that I should make a list of goals for the upcoming year and set them into place, but the cynical part of me always wins, I would tell myself that New years resolutions are meaningless or any other dumb excuse, eventually January first would arrive and I will swear to myself that _I missed the deadline and that net year I will get it right_ and the cycle would continue for years and years.

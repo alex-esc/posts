@@ -5,6 +5,8 @@ title: "Who am I? Am I more than just an online profile to you?"
 
 Yeah! turns out I am multiple online profiles.
 
+<!--more-->
+
 Hi I'm Alex Escalante, but I go by many user-names, mainly Alex Esc. as a wired abbreviation of my real name, the "esc" has a really computer-y & Internet-y feel to it so I went with it.
 
 Recently I decided to change all my user-names to `alex-esc` if possible, if the name was already in use I will choose one with an underscore or a point instead of a dash, but regardless of my Internet identity problem identifying users is a real issue.

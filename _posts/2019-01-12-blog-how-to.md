@@ -7,6 +7,8 @@ title: "How to make a blog like this one"
 
 This blog is a static website hosted on _[GitHub Pages][1]_, it's built with _[Jekyll][2]_ using the _[jekyll-minimal-theme][3]_ to style the site, I write my blog posts using _[Markdown][4]_ on a _text editor_ and I push my new blog posts to the Internet using _[git][5]_.
 
+<!--more-->
+
 [1]: https://pages.github.com/
 [2]: https://jekyllrb.com/docs/
 [3]: https://github.com/henrythemes/jekyll-minimal-theme

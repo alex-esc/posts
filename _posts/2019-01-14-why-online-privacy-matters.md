@@ -5,6 +5,8 @@ title: "Why Online Privacy Matters - An Update."
 
 On January 18th 2018 I started my personal website to publish my work, Ideally I would publish new original content as well as rebroadcasting my previous works, but back then I had a very slim catalog of personal projects.
 
+<!--more-->
+
 One of my projects was an attempt to convey my viewpoints and ideas about _technology and the digital age as a whole_, but who months into the research process I hit a wall. My enthusiastic view of social media came in conflict with the Cambridge Analytica controversy in May 2018 and the project spun off into an article titled _"Why Online Privacy Matters"_.
 
 The project's research ended and the writing begun on March 16th and it quickly spiraled out of control, the thesis was too broad, the minimum amount of information to keep the flow going was too much for a short article but nonetheless I did my best to synthesize the project into a script for a short video on the topic.

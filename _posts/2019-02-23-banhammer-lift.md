@@ -5,6 +5,8 @@ title: "Free From The Bluebird & Could You Write Your Manifesto In 280 Character
 
 Update from the Twitter suspension, the ban hammer has been lifted! I got this response from Twitter via email:
 
+<!--more-->
+
 > Hello,
 > 
 > Your account is now unlocked, and we’re sorry for the inconvenience.

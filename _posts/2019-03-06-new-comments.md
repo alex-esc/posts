@@ -3,7 +3,7 @@ layout: "post"
 title: "Reddit as a comment section."
 ---
 
-This blog now features comments! If you'd like to ask me anything about any given blog post you can now write it as a comment on their own reddit post.
+This blog now features comments! <!--more--> If you'd like to ask me anything about any given blog post you can now write it as a comment on their own reddit post.
 
 Blog posts that invite or incentive comments will get their own reddit, since I try to avoid clutter on the site not all blog posts will get a comment section, only the ones I consider "comment friendly" will get official comments since day one.
 

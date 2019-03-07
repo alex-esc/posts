@@ -3,11 +3,11 @@ layout: post
 title: "How to have all your contacts on one safe place!"
 ---
 
+
+
+In this article you will find out how to manage your contact list using V-cards <!--more-->, how to make them, import your other contacts into your own list and export them into all your devices and why using them is more private and secure than a cloud based service.
+
 > This post is a re-broadcast of one of my old articles, originally published on 30th of April 2018.
-
-In this article you will find out how to manage your contact list using V-cards, how to make them, import your other contacts into your own list and export them into all your devices and why using them is more private and secure than a cloud based service.
-
-
 
 # Introduction to V-cards.
 
