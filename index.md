@@ -40,7 +40,7 @@ Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](fe
     </a>
   </h3>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  {{ post.content | strip_html | truncatewords: 50 }}
+  {{ post.content }}
 </article>
 
 {% endfor %}
