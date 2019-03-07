@@ -31,3 +31,5 @@ exclude:
 safe: true
 lsi: false
 
+excerpt_separator: <!--more-->
+
