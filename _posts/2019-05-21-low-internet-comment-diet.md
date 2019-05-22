@@ -5,7 +5,7 @@ title: "You don't have to respond to every single comment."
 
 As of lately I have been feeling very Zen about my internet comment habits. In the past my commenting diet was comprised of YouTube, Facebook & Reddit and after leaving behind the wormhole that is Facebook and adopting a new work-flow for watching YouTube videos my comment anxiety has dropped massively.
 
-But the elephant in the room remained: Reddit, and *boy oh boy* how much as our relationship changed. First in our honeymoon I subscribed to all the subreddits, scrolled down the comments and replayed with memes and joy. Now that the dust has settled I see through the toxicity.
+But the elephant in the room remained: Reddit, and *boy oh boy* how much as our relationship changed. First in our honeymoon I subscribed to all the subreddits, scrolled down the comments and replied with memes and joy. Now that the dust has settled I see through the toxicity.
 
 For every well thought out *change my view* post there's a hundred reactionary hate mobs going after [Tati or whoever the internet has decided needs to burn][1].
 
