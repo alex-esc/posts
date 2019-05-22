@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "You don't have to respond to every single comment"
+title: "You don't have to respond to every single comment."
 ---
 
 As of lately I have been feeling very Zen about my internet comment habits. In the past my commenting diet was comprised of YouTube, Facebook & Reddit and after leaving behind the wormhole that is Facebook and adopting a new work-flow for watching YouTube videos my comment anxiety has dropped massively.

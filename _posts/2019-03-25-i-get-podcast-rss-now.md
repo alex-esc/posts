@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Understanding podcast RSS feeds"
+title: "Understanding podcast RSS feeds."
 ---
 
 After some toying around with RSS I think I've got it kind of figured out, so yeah expect a full tutorial in the future, for now here is a brief explanation of my setup.
