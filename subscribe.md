@@ -16,7 +16,7 @@ title: Subscribe
 </div>
 
 <div style="text-align:center">    
-  <a href="https://www.reddit.com/r/alex_esc_reddit/">Follow me on twitter.</a>
+  <a href="https://twitter.com/alex_esc_tweets">Follow me on twitter.</a>
 </div>
 
 <div style="text-align:center">    
