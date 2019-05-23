@@ -5,7 +5,7 @@ title: Subscribe
 
 # Get notified when a new post is published.
 
-
+---
 
 <div style="text-align:center">    
   <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail.</a>
@@ -23,6 +23,7 @@ title: Subscribe
   <a href="https://www.reddit.com/r/alex_esc_reddit/">Subscribe on reddit.</a>
 </div>
 
+---
 
 \* E-mail notifications powered by Google's Feedburner.
 
