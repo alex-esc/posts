@@ -8,7 +8,7 @@ title: Subscribe
 ---
 
 <div style="text-align:center">    
-  <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail.</a>
+  <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail.</a>*
 </div>
 
 <div style="text-align:center">    
