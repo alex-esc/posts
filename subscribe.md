@@ -3,13 +3,31 @@ layout: default
 title: Subscribe
 ---
 
-# Via email
+# Get notified when a new post is published.
 
-<a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Subscribe to alex-esc - Blog posts by Email - Using FeedBurner</a>
 
-# Via RSS
 
-> https://alex-esc.github.io/posts/feed.xml
+<div style="text-align:center">    
+  <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail.</a>
+</div>
+
+<div style="text-align:center">    
+  <a href="https://alex-esc.github.io/posts/feed.xml">RSS feed.</a>
+</div>
+
+<div style="text-align:center">    
+  <a href="https://www.reddit.com/r/alex_esc_reddit/">Follow me on twitter.</a>
+</div>
+
+<div style="text-align:center">    
+  <a href="https://www.reddit.com/r/alex_esc_reddit/">Subscribe on reddit.</a>
+</div>
+
+
+\* E-mail notifications powered by Google's Feedburner.
+
+[feedb]: https://feeds.feedburner.com/alex-esc
+
 
 
 
