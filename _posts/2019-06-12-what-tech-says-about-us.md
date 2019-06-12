@@ -18,6 +18,6 @@ If you'd like to find out head over to the article and subscribe to the site's b
 [3]: https://digital-rights.github.io/contact
 
 
-<center>[**Click here to read the article**][4]</center>
+[<center>**Click here to read the article**</center>][4]
 
 [4]: https://digital-rights.github.io/2019/06/10/digital-impact.html
