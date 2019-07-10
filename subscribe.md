@@ -20,11 +20,11 @@ title: Subscribe
 </div>
 
 <div style="text-align:center">    
-  <a href="https://www.reddit.com/r/alex_esc_reddit/">Subscribe on reddit.</a>
+  <a href="https://medium.com/@alexesc">Follow me on medium.</a>
 </div>
 
 <div style="text-align:center">    
-  <a href="https://medium.com/@alexesc">Follow me on medium.</a>
+  <a href="https://www.reddit.com/r/alex_esc_reddit/">Subscribe on reddit.</a>
 </div>
 
 ---
