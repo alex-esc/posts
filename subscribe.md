@@ -23,6 +23,10 @@ title: Subscribe
   <a href="https://www.reddit.com/r/alex_esc_reddit/">Subscribe on reddit.</a>
 </div>
 
+<div style="text-align:center">    
+  <a href="https://medium.com/@alexesc">Follow me on medium.</a>
+</div>
+
 ---
 
 \* E-mail notifications powered by Google's Feedburner.

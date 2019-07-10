@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Quitting social media is being sold as the solution, but it's not liberating users, it's repressing and isolating them."
+title: "Quitting social media is being sold as the solution, but it's not liberating users, it's repressing and isolating them"
 ---
 
 Something I see often overlooked in privacy discussions is if our techniques for achieving privacy are actually contributing to the liberation of cyberspace and building a healthy internet society or are we just making our situation worst.
