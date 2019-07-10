@@ -19,8 +19,8 @@ The work that I'm especially proud of will be going up on my medium page, all my
 
 Make sure to follow me on medium, the new home for my extra pretentious work.
 
-Follow me on medium: [medium.com/@alexesc][1]
-Digital Rights on medium: [medium.com/digital-rights][2]
+* Follow me on medium: [medium.com/@alexesc][1]
+* Digital Rights on medium: [medium.com/digital-rights][2]
 
 [1]: https://medium.com/@alexesc
 [2]: https://medium.com/digital-rights
