@@ -11,6 +11,7 @@ description:  My personal blog
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path: /posts 
 url:  'https://alex-esc.github.io/posts/'
+baseurl: 'https://alex-esc.github.io/'
 
 
 ########
