@@ -2,22 +2,22 @@
 layout: default
 title: Terms of Service + Privacy Policy
 redirect_from:
-- base.url/tou.html
-- base.url/tos.html
-- base.url/pp.html
-- base.url/tou.html
-- base.url/legal.html
-- base.url/privacy.html
-- base.url/terms.html
-- base.url/privacypolicy.html
-- base.url/privacy_policy.html
-- base.url/privacy-policy.html
-- base.url/termsofservice.html
-- base.url/terms_of_service.html
-- base.url/terms-of-service.html
-- base.url/termsofuse.html
-- base.url/terms_of_use.html
-- base.url/terms-of-use.html
+- site.url/tou.html
+- site.url/tos.html
+- site.url/pp.html
+- site.url/tou.html
+- site.url/legal.html
+- site.url/privacy.html
+- site.url/terms.html
+- site.url/privacypolicy.html
+- site.url/privacy_policy.html
+- site.url/privacy-policy.html
+- site.url/termsofservice.html
+- site.url/terms_of_service.html
+- site.url/terms-of-service.html
+- site.url/termsofuse.html
+- site.url/terms_of_use.html
+- site.url/terms-of-use.html
 ---
 
 # TL;DR
