@@ -31,5 +31,8 @@ exclude:
 safe: true
 lsi: false
 
+plugins:
+  - jekyll-redirect-from
+
 excerpt_separator: <!--more-->
 

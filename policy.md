@@ -1,22 +1,23 @@
 ---
 layout: default
 title: Terms of Service + Privacy Policy
-permalink: /tou.html
-permalink: /tos.html
-permalink: /pp.html
-permalink: /tou.html
-permalink: /legal.html
-permalink: /privacy.html
-permalink: /terms.html
-permalink: /privacypolicy.html
-permalink: /privacy_policy.html
-permalink: /privacy-policy.html
-permalink: /termsofservice.html
-permalink: /terms_of_service.html
-permalink: /terms-of-service.html
-permalink: /termsofuse.html
-permalink: /terms_of_use.html
-permalink: /terms-of-use.html
+redirect_from:
+- /tou.html
+- /tos.html
+- /pp.html
+- /tou.html
+- /legal.html
+- /privacy.html
+- /terms.html
+- /privacypolicy.html
+- /privacy_policy.html
+- /privacy-policy.html
+- /termsofservice.html
+- /terms_of_service.html
+- /terms-of-service.html
+- /termsofuse.html
+- /terms_of_use.html
+- /terms-of-use.html
 ---
 
 # TL;DR
