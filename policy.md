@@ -58,7 +58,7 @@ Click on the name of a license for more information.
 
 The website's author does not collect any information from users, however third parties do collect statistics via cookies on this page but _you can easily opt out_ or block information collecting scripts or cookies.
 
-**Third parties who collect data:** The main third party that collects data is the website host, GitHub: According to [GitHub's privacy policy][ghpp], they may collect Technical Information from visitors, including logs of visitor IP addresses, to maintain the security and integrity of the website and service. Content from embedded third parties ,like in-line YouTube videos or images hosted on Imgur, may collect information of their own. The amount of embedded content is kept to a minimum to avoid third party data collection, if embedded content is necessary the terms of service and privacy policy of their services apply.
+**Third parties who collect data:** The main third party that collects data is the website host, GitHub: According to [GitHub's privacy policy][ghpp], they may collect Technical Information from visitors, including logs of visitor IP addresses, to maintain the security and integrity of the website and service. Content from embedded third parties, like in-line YouTube videos or images hosted on Imgur, may collect information of their own. The amount of embedded content is kept to a minimum to avoid third party data collection, if embedded content is necessary the terms of service and privacy policy of their services apply.
 
 [ghpp]: https://help.github.com/en/articles/github-privacy-statement
 
