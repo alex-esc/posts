@@ -71,7 +71,7 @@ To sync your e-books with your Android phone, first create a folder on your desk
 
 KOReader is a super nice piece of software, its a document viewer for e-readers and android. KOReader can browse local files, open e-books, keep track of your progress, highlight text, add notes, lookup words on the dictionary or Wikipedia, translate words, it has both light and dark mode and it's beautifully minimalistic.
 
-It's free, zero , nada. It's libre, open, GNU (Affero GPL v3.0). It runs on Android (The dark theme on a OLED screen looks gorgeous) and e-reader devices such as kindle. KOReader is maintained by e-book-loving volunteers, there's no donation information available on their website, so to show them your support [join their forum](https://www.mobileread.com/forums/forumdisplay.php?f=276) or thank the [top contributors](https://github.com/koreader/koreader#contributors) directly.
+It's free, zero, nada. It's libre, open, GNU (Affero GPL v3.0). It runs on Android (The dark theme on a OLED screen looks gorgeous) and e-reader devices such as kindle. KOReader is maintained by e-book-loving volunteers, there's no donation information available on their website, so to show them your support [join their forum](https://www.mobileread.com/forums/forumdisplay.php?f=276) or thank the [top contributors](https://github.com/koreader/koreader#contributors) directly.
 
 * [Download KOReader for Android](https://f-droid.org/en/packages/org.koreader.launcher/)
 * [Installation instructions for Kindle devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
