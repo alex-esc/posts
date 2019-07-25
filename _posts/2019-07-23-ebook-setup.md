@@ -5,7 +5,7 @@ title: "How and why I read e-books"
 
 ### This one's new for me
 
-Writing about tech had often involved watching YouTube tutorials and condensing their content into this blog, or at least it used to. Now that I try to tackle more nuanced ideas like [digital rights][1], [Internet culture][2] and to an extent [politics online][3] I can no longer find my kick in ten minute videos.
+Writing about tech had often involved watching YouTube tutorials and condensing their content into this blog, or at least it used to. Now that I try to tackle more nuanced ideas like [digital rights][1], [Internet culture][2] and to an extent [politics online][3], I can no longer find my kick in ten minute videos.
 
 [1]: https://alex-esc.github.io/posts/what-tech-says-about-us.html
 [2]: https://alex-esc.github.io/posts/alt-tech.html
@@ -18,9 +18,9 @@ I wear [my inspiration][4] with pride, but my idols weren't always the same. Fou
 [6]: https://www.youtube.com/user/AtGoogleTalks
 [7]: https://en.wikipedia.org/wiki/Douglas_Rushkoff
 
-Rushkoff is a media theorist who coined the term viral media, and by extension viral video, this is why he tends to be mis interpreted as a marketing guru when in fact he is as anti-marketing as you can get. Douglas's work focuses on digital media environments, and how they affect society and the economy; On his [2017 talk at Google][8] he spoke about his most recent book at the time: *Throwing Rocks at the Google Bus*. The talk spoke to me, it seems like every little tangent and sentence unveiled some hidden truth behind the tech curtain, from his casual chit chat with the audience at the beginning to his profound economical analysis of the digital environment he had me hooked. Only a day later I listened to his talk [he went on TED][9] to lecture about his new book *Team Human*.
+Rushkoff is a media theorist who coined the term viral media, and by extension viral video, this is why he tends to be misinterpreted as a marketing guru when in fact he is as anti-marketing as you can get. Douglas's work focuses on digital media environments, and how they affect society and the economy; On his [2017 talk at Google][8] he spoke about his most recent book at the time: *Throwing Rocks at the Google Bus*. The talk spoke to me, it seems like every little tangent and sentence unveiled some hidden truth behind the tech curtain, from his casual chit-chat with the audience at the beginning to his profound economical analysis of the digital environment he had me hooked. Only a day later, by pure change, [he went on TED][9] to lecture about his new book *Team Human*.
 
-I was blown away, it seemed Doug could do no wrong. Shocked by his presentation I searched for his YouTube channel, there I found an [interview with Bo Burnham][10], one of my favorite comedians, the video description pointed to [his podcast][11], so I rushed to add the RSS feed into my phone's podcast app. I listened to Doug's podcast for months, I burned through his hole catalog. On one of his latest episodes he said he's going on a small break and that the break should work as reflection time for both himself and his listeners. As any author would do he winked to the idea that now theat the show is slowing down it's the perfect time to read his newest book, he got me hook, line, and sinker.
+I was blown away, it seemed Doug could do no wrong. Shocked by his presentation I searched for his YouTube channel, there I found an [interview with Bo Burnham][10], one of my favorite comedians, the video description pointed to [his podcast][11], so I rushed to add the RSS feed into my phone's podcast app. I listened to Doug's podcast for months, I burned through his hole catalog. On one of his latest episodes he said he's going on a small break and that the break should work as reflection time for both himself and his listeners. As any author would do, he winked to the idea that now's the perfect time to read his newest book; He got me hook, line, and sinker.
 
 [8]: https://www.youtube.com/watch?v=0EnmH95016w
 [9]: https://www.youtube.com/watch?v=Is1YUQVYkvY
