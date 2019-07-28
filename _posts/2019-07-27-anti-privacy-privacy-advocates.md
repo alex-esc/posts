@@ -4,7 +4,9 @@ title: "Do privacy advocates really care about privacy?"
 ---
 
 	Weepes:
-	What can I do when my family keeps posting pictures of me on facebook ? I've told them numerous times I don't want to appear there regardless of context but they are morons when it comes to that
+	What can I do when my family keeps posting pictures of me on facebook ?
+	I've told them numerous times I don't want to appear there regardless
+	of context but they are morons when it comes to that
 
 	Linux shaggy:
 	Put a key logger on their phone and delete the pictures once uploaded
