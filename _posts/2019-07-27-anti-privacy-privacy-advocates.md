@@ -62,7 +62,7 @@ Here are some real examples that cached my eye. On Reddit's sub-section of priva
 	1. Die.
 	2. Submit proof of death to all sites where you had accounts.
 
-The joke-like subversion of expectations aside, this comment shines a light into the deep rooted tech pessimism within the community. ON that very same post some other user simply replayed with:
+The joke-like subversion of expectations aside, this comment shines a light into the deep rooted tech pessimism within the community. On that very same post some other user simply replayed with:
 
 	Unplug your internet
 
@@ -70,7 +70,7 @@ Oh, the Irony! Turns out the *command-line-loving-Linux-only-FOSS-super-tech-sav
 
 It also seems like we don't really care for *capital P Privacy*, when it comes to avoiding digital surveillance the privacy community acts with ego. Rather than fighting for everyone's right for (*capital P*) Privacy, each one of us fights for their own right to isolate themselves from the world; we seem to care for privacy *with an uncapitalized p*, meaning we care for privacy only in the terms of superficial aesthetics.
 
-Our individual and atheistic understanding of privacy has, in some extreme cases, lead "privacy-woke people" to spy on others to protect themselves. With great irony, some people violate other's right to privacy in the name of their own. The following is a real conversation on a public privacy Telegram group:
+Our individual and atheistic understanding of privacy has, in some extreme cases, lead "privacy-woke people" to spy on others to protect themselves. With great irony, some people violate other's right to privacy in the name of their own. The following is a real conversation on a privacy focused Telegram group:
 
 	User A:
 	What can I do when my family keeps posting pictures of me on facebook ?
@@ -109,4 +109,57 @@ Our individual and atheistic understanding of privacy has, in some extreme cases
 
 	Me:
 	I hope you're kidding
+
+
+On another Reddit post a user asked for tips for migrating from Google Chrome to Firefox, this was the top most response:
+
+	Honestly if you cared about privacy you should've left Chrome a long time ago.
+
+Then the original poster replied to that comment with shame, this OP reply is now deleted, but if I remember correctly he said something amongst the lines of how Google Chrome has bad ad practices and that he's ashamed he ever used it.
+
+The same commenter that shamed him for not using Firefox "soon enough" then said to him:
+
+	I agree about the adds, I'm simply pointing out that if anyone cares about privacy using anything google is the anthesis of that.
+
+Then I responded:
+
+	I just don't see a reason to say it like that. This approach is common in the sub, this whole if you don't use X you don't care about privacy thing gives privacy advocacy a bad rep.
+
+	At least we are not installing linux on our families and friends computers...yet.
+
+But his smugness remained, the privacy shame-er then replied to my criticism with:
+
+	It may not have been the best way to phrase it, but the meaning is sound.
+
+This, almost asshole-atheist, way to respond to a genuine criticism of the pro-privacy unwritten rulebook shows the sort of reversal of values I talked about on the Humane tech forum:
+
+We claim to care for free speech, yet we shame one each other into silence for not using the right software; we claim to champion technology, yet we glorify disconnecting from the Internet; we claim to care for privacy, yet at least some of us spy on their parents to protect their own privacy. Our value claims being proved false is not a sign of our community being "broken" - there's no anomaly here, no problem to be fixed - this community functions just like it's been setup to work: Privacy, freedom of speech and digital autonomy are not our goals, just like *make america great again* isn't Donald Trump's ultimate goal. It's a distraction, blatant misdirection and deception.
+
+Like all reactionary movements fear drives our privacy community forward. In a purely outcome based perspective I see no difference between Trump fear-mongering about immigrants and the privacy community's fear of the government or big tech - they both serve as the mechanism to keep the moment afloat, mobilized paranoia.
+
+On a different thread another reddit user wrote:
+
+	how can you sleep knowing what intel has on your system?
+
+	I'm scared as shit now and I consider going offline for good
+
+	I knew recently about the intel me and I'm completely paranoid about it, I want it off of my PC, like this is my personal space
+
+	I'm not exaggerating
+
+	how can they make such a thing and govs don't give a single shit?
+
+	why the fuck does some one wants to collect this amount of data? and don't dare and tell me to customize my experience and ads this shit is big, like really big
+
+	all the conspiracy theories I didn't believe in are now being more ... shall we say believable, for something like this to exist in every single computer, server and firewall on the planet must raise some question of why is this a thing?
+
+	this isn't for security I'm sure as hell
+
+	although I'm a computer nerd (not so good but I know my way around) since I was 13 and I'm 21 I only got to low level stuff recently like about 8 months or so but I really consider going offline for good until a better online word comes to life
+
+	now I know for a fact that these tech corp. have some shitty background
+
+	I'm sure as shit that these companies have some data sharing contract or some shit, like if MS doesn't get you by windows, intel gets you by intel me
+	
+By looking at how "privacy extremists" act and react we can see the systematic meme-tics at work. Without a doubt there's an embedded agenda in the privacy community, and it's neither about privacy nor freedom.
 
