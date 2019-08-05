@@ -3,6 +3,12 @@ layout: "post"
 title: "Follow me on Mastodon"
 ---
 
+TL;DR
+
+| Blog posts only   | My personal account |
+|:------------------|--------------------:|
+| @alexesc@write.as | @alexesc@librem.one |
+
 Thanks to [write.as][1] you can now follow this blog on the fediverse.
 
 You can follow this blog on **@alexesc@write.as** inside a Mastodon app or [click here][2] to see my Mastodon profile on a browser.
