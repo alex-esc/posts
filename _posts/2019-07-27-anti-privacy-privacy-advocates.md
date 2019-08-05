@@ -136,7 +136,7 @@ But his smugness remained, the privacy shame-er then replied to my criticism wit
 
 	It may not have been the best way to phrase it, but the meaning is sound.
 
-This, almost asshole-atheist, way to respond to a genuine criticism of the pro-privacy unwritten rulebook shows the sort of reversal of values I talked about on the Humane tech forum:
+This, almost asshole-atheist, way to respond to a genuine criticism of the pro-privacy unwritten rulebook shows the sort of reversal of values I talked about on the [Humane tech forum][2]:
 
 We claim to care for free speech, yet we shame one each other into silence for not using the right software; we claim to champion technology, yet we glorify disconnecting from the Internet; we claim to care for privacy, yet at least some of us spy on their parents to protect their own privacy. Our value claims being proved false is not a sign of our community being "broken" - there's no anomaly here, no problem to be fixed - this community functions just like it's been setup to work: Privacy, freedom of speech and digital autonomy are not our goals, just like *make america great again* isn't Donald Trump's ultimate goal. It's a distraction, blatant misdirection and deception.
 
@@ -179,3 +179,77 @@ On a different thread another reddit user wrote:
 	
 By looking at how "privacy extremists" act and react we can see the systematic meme-tics at work. Without a doubt there's an embedded agenda in the privacy community, and it's neither about privacy nor freedom.
 
+To say it bluntly, the privacy community sometimes behaves like an Internet cult. All the signs are present. [Steven Hassan][11] is a mental health expert and author of several books regarding mind control and cult deprogramming, on his 2015 book *Freedom of Mind: Helping Loved Ones Leave Controlling People, Cults, and Beliefs* he proposes a simple model to identify cult behavior on social groups, he calls it the B.I.T.E. model.
+
+[11]: https://en.wikipedia.org/wiki/Steven_Hassan
+
+This model aims to reflect the early signs of a cult taking a bite out of someone's life. B.I.T.E. stands for Behavior Control, Information Control, Thought Control & Emotional Control.
+
+**Behavior Control**
+
+* Promote dependence and obedience
+* Modify behavior with rewards and punishments
+* Dictate where and with whom you live
+* Restrict or control sexuality
+* Control clothing and hairstyle
+* Regulate what and how much you eat and drink
+* Deprive you of seven to nine hours of sleep
+* Exploit you financially
+* Restrict leisure time and activities
+* Require you to seek permission for major decisions
+
+**Information Control**
+
+* Deliberately withhold and distort information
+* Forbid you from speaking with ex-members and critics
+* Discourage access to non-cult sources of information
+* Divide information into Insider vs. Outsider doctrine
+* Generate and use propaganda extensively
+* Use information gained in confession sessions against you
+* Gaslight to make you doubt your own memory
+* Require you to report thoughts, feelings, & activities to superiors
+* Encourage you to spy and report on others’ “misconduct”
+
+**Thought Control**
+
+* Instill Black vs. White, Us vs. Them, & Good vs. Evil thinking
+* Change your identity, possibly even your name
+* Use loaded language and cliches to stop complex thought
+* Induce hypnotic or trance states to indoctrinate
+* Teach thought-stopping techniques to prevent critical thoughts
+* Allow only positive thoughts
+* Use excessive meditation, singing, prayer, & chanting to block thoughts
+* Reject rational analysis, critical thinking, & doubt
+
+**Emotional Control**
+
+* Instill irrational fears (phobias) of questioning or leaving the group
+* Label some emotions as evil, worldly, sinful, or wrong
+* Teach emotion-stopping techniques to prevent anger, homesickness
+* Promote feelings of guilt, shame, & unworthiness
+* Shower you with praise and attention (“love bombing”)
+* Threaten your friends and family
+* Shun you if you disobey or disbelieve
+* Teach that there is no happiness or peace outside the group
+
+> Source: [Steven Hassan’s BITE Model from Freedom of the mind's resource section on their website][12].
+
+[12]: https://freedomofmind.com/bite-model/
+
+Those bluet points are not definitive proof that X group acts like a cult, rather than a one size fits all solution think of it like a set of guidelines for identifying manipulative and problematic groups. Meaning cults may have some, but not all, listed characteristics in the chart.
+
+On a [later post][13] I will analyze the privacy community point by point with the BITE model, for now let it serve as food for thought about this or other online communities, for example: The meme community, incels, red-pill-ers, MGTOW's, etc...
+
+[13]: https://alex-esc.github.io/posts/subscribe.html
+
+If something is clear, it's that the privacy community only protects privacy, freedom & liberty on a superficial level, they accomplish this by creating a narrative of us versus them fueled by tech paranoia and that one common outcome of this mentality is to isolate yourself from the Net.
+
+"Get off our territory, the Web is ours! Big corporations are trying to censor us because they know we are right! They're out to get you like it's 1984! & we must destroy our enemy" not only applies with the privacy community, as you may guess, this logic is also popular amongst one important person:
+
+> The White House will be hosting a very big and very important Social Media Summit today. Would I have become President without Social Media? Yes (probably)! At its conclusion, we will all go to the beautiful Rose Garden for a News Conference on the Census and Citizenship.
+> 
+> Donald Trump, July 2019. [Source][14].
+
+[14]: https://web.archive.org/web/20190711103926/https:/twitter.com/realDonaldTrump/status/1149266929565261824
+
+The deeper hidden agenda of anti-tech, anti-progress and anti-empathy inside the privacy community may have more to do with classical right wing politics than with neo-liberal silicon valley.
