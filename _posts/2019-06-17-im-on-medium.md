@@ -3,7 +3,7 @@ layout: "post"
 title: "I'm now on Medium"
 ---
 
-After months of writing for nobody but myself, I finally decided to take my ideas to a public place. Medium is normally a website were pretentious rejected TED speakers vomit buzzwords onto your screen, now I'll be joining the party!
+After months of writing for nobody but myself, I finally decided to take my ideas to a public place.<!--more--> Medium is normally a website were pretentious rejected TED speakers vomit buzzwords onto your screen, now I'll be joining the party!
 
 My ideas and thoughts - although rarely not *heavily* inspired by Douglas Rushkoff, Lawrence Lessig, Tristan Harris & Jaron Lanier - have gained some traction amongst my friends and family. After opening up my ideas to my friends I expected the social equivalent of being tomato'd off stage but to my surprise I was encouraged!
 

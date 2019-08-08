@@ -5,7 +5,7 @@ title: "How and why I read e-books"
 
 ### This one's new for me
 
-Writing about tech had often involved watching YouTube tutorials and condensing their content into this blog, or at least it used to. Now that I try to tackle more nuanced ideas like [digital rights][1], [Internet culture][2] and to an extent [politics online][3], I can no longer find my kick in ten minute videos.
+Writing about tech had often involved watching YouTube tutorials and condensing their content into this blog, or at least it used to.<!--more--> Now that I try to tackle more nuanced ideas like [digital rights][1], [Internet culture][2] and to an extent [politics online][3], I can no longer find my kick in ten minute videos.
 
 [1]: https://alex-esc.github.io/posts/what-tech-says-about-us.html
 [2]: https://alex-esc.github.io/posts/alt-tech.html

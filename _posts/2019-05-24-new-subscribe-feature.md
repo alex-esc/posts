@@ -7,7 +7,7 @@ title: "Get notifications when I post new content!"
 
 Up until now if you wanted to keep up with my work you ether had to visit my site every so often to manually check if new content had been added or if you're a computer nerd you could add my RSS feed to your news aggregator of choice.
 
-This changes now!
+This changes now!<!--more-->
 
 Now You can click the *subscribe* button at the top of the page & select from 4 different methods to get notified when I post something new, and unlike the old RSS method - it's brain-dead-easy.
 

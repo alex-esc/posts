@@ -3,7 +3,7 @@ layout: "post"
 title: "How Digital Technologies Reflect Who We Are - New post on the Digital Rights Blog"
 ---
 
-As I mentioned [long ago][1], I am starting a new project to promote human rights online. I call it *digital rights* and on it's website me and the community will be posting articles, writing blogs, creating videos and podcasts about technology and how we can make it more humane.
+As I mentioned [long ago][1], I am starting a new project to promote human rights online.<!--more--> I call it *digital rights* and on it's website me and the community will be posting articles, writing blogs, creating videos and podcasts about technology and how we can make it more humane.
 
 [1]: https://alex-esc.github.io/posts/new-blogs-on-digital-rights.html
 

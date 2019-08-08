@@ -3,7 +3,7 @@ layout: "post"
 title: "Quitting social media is being sold as the solution, but it's not liberating users, it's repressing and isolating them"
 ---
 
-Something I see often overlooked in privacy discussions is if our techniques for achieving privacy are actually contributing to the liberation of cyberspace and building a healthy internet society or are we just making our situation worst.
+Something I see often overlooked in privacy discussions is if our techniques for achieving privacy are actually contributing to the liberation of cyberspace and building a healthy internet society or are we just making our situation worst.<!--more-->
 
 The common techniques for achieving privacy tend to be more about avoiding surveillance rather than fixing what caused it in the first place. Now let’s take Facebook for example, let’s say a privacy newbie stumbles upon a privacy forum, he learns about the wrong doings of Facebook and he decides he wants to make a change. Now, what is the typical response he would get?
 

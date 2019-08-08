@@ -6,7 +6,7 @@ title: "Easy RSS Tutorial."
 
 On your phone you've got notifications, on your computer you have a different type of notifications and inside social media apps you have other independent notifications, right? 
 
-So what is RSS and why are notifications relevant?
+So what is RSS and why are notifications relevant?<!--more-->
 
 Well on different services or devices you have separate notifications, on some occasions independent from each other. And that's kind of a mess.
 

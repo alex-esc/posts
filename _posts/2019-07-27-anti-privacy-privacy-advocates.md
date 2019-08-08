@@ -3,7 +3,9 @@ layout: "post"
 title: "Do privacy advocates really care about privacy?"
 ---
 
-It seems there has been a paradigm shift in privacy activism; we went from protesting digital injustices in the name of privacy, autonomy and freedom of speech to reacting without autonomy, freedom of speech, or even privacy, to the same injustices we used to protest.
+It seems there has been a paradigm shift in privacy activism<!--more-->; we went from protesting digital injustices in the name of privacy, autonomy and freedom of speech to reacting without autonomy, freedom of speech, or even privacy, to the same injustices we used to protest.
+
+
 
 This reversal of values has been floating around my head for some time now, I wrote [this blog post][1] about it, originally it was a thread on the [humane technology community forum][2]. It was written as a response to another forum thread titled *I Have to Get Facebook for College*; in it the original poster commented how Facebook has a big grip on student's life and work-flow, she also asked for tips to avoid Facebook's undesirable "features" such as advertising and surveillance. I wrote your typical tech-head response: *You need to install this, run this browser extension, setup this, configure that* - But then I realized how complicit this type of advice I'm giving, this was a [reactionary][3] response.
 
