@@ -17,6 +17,9 @@ https://social.librem.one/@alexesc/102570649378138155
 
 https://alex-esc.github.io/posts/ebook-setup.html
 
+
+![](https://i.imgur.com/u1m1ki0.png)
+
 ### kubric sruff
 
 look at this!
