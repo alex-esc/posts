@@ -17,7 +17,7 @@ For a long time I've been frustrated with so called *"Internet intellectuals"*, 
 [Introduction to V-cards.](https://alex-esc.github.io/posts/contacts.html#introduction-to-v-cards)
 -->
 
-[read more](#Further-reading)
+[read more](https://alex-esc.github.io/posts/book-reveiw-team-human.html#further-reading)
 
 # Introduction to V-cards.
 Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don’t bother with technology non-scene and you can only contact them on the phone.
