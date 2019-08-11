@@ -15,7 +15,7 @@ For a long time I've been frustrated with so called *"Internet intellectuals"*, 
 
 [read more](# Further reading)
 
-Introduction to V-cards.
+# Introduction to V-cards.
 Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don’t bother with technology non-scene and you can only contact them on the phone.
 
 Every service or company like facebook, Gmail, Outlook and your smart-phone are competing for being the most convenient way of keeping in touch, this endless competitions only serves to fragment your contact list. All your work contacts are on some old email account, your old college friends are somewhere in a FB group. In other words no service is truly convenient.
@@ -29,12 +29,12 @@ Yes, they are a standard since the 90’s. They work on Windows computers, Apple
 
 V-cards are as compatible and universal as it gets, services like facebook, gmail, android and iOS probably use them on the back end.
 
-Can I trust them?
+# Can I trust them?
 Of course you can! V-cards are safe in the sense that they are simple plain text files that you create yourself, they will not compromise you to any computer virus like downloading a random program on the Internet will because v-cards are made and manged by you, not a random person from the Internet.
 
 They are private in the sense that they are stored in your device and nowhere else. Other methods like using Google contacts, Facebook in general, the contacts app on your phone are always looking any changes you make, they do this out of good will to provide cloud services but the problem is that they store your private information on their insecure servers. Remember the iCloud leaks? see, apple services are not to be trusted! Google, Yahoo and Facebook use similar security measures that could be compromised in the future. Likewise they are not to be trusted.
 
-According to the New York Times:
+# According to the New York Times:
 
 Back in 2014 hackers stole private information of over 500 million users from yahoo servers, including contact information like their full names, addresses, telephone numbers and passwords.
 
