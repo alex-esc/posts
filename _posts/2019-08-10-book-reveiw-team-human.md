@@ -13,7 +13,11 @@ title: "Team Human by Douglas Rushkoff - Book Review"
 
 For a long time I've been frustrated with so called *"Internet intellectuals"*, very little things on the net come close to the cathartic feeling of listening to a talk and slowly realizing the big picture idea being but forth by the speaker. The topic I usually always came around to listen to another debate, podcast or conference about one particular topic: Religion. At the beginning there was *Cosmos: A Spacetime Odyssey*, hosted by Neil deGrasse Tyson, this show was recommended to me via my Netflix feed, probably because of my obsession for *2001: A Space Odyssey* and everything Stanley Kubrick.
 
-[read more](# Further reading)
+<!---
+[Introduction to V-cards.](https://alex-esc.github.io/posts/contacts.html#introduction-to-v-cards)
+-->
+
+[read more](https://alex-esc.github.io/posts/contacts.html#Further-reading)
 
 # Introduction to V-cards.
 Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don’t bother with technology non-scene and you can only contact them on the phone.
