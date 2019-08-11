@@ -17,7 +17,10 @@ For a long time I've been frustrated with so called *"Internet intellectuals"*, 
 [Introduction to V-cards.](https://alex-esc.github.io/posts/contacts.html#introduction-to-v-cards)
 -->
 
-[read more](https://alex-esc.github.io/posts/book-reveiw-team-human.html#further-reading)
+[read more](#further-reading)
+
+
+AAAAAAAAAAAAAAAAAA
 
 # Introduction to V-cards.
 Keeping in touch with old fiends can be a major pain, your closest friends might be on facebook but your old coworker is on telegram, your grandparents don’t bother with technology non-scene and you can only contact them on the phone.
@@ -95,17 +98,3 @@ https://alex-esc.github.io/posts/ebook-setup.html
 
 look at this!
 
-<!--
-
-<script>
-    var headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]");
-
-    for (var i = 0; i < headings.length; i++) {
-        headings[i].innerHTML =
-            '<a href="#' + headings[i].id + '">' +
-                headings[i].innerText +
-            '</a>';
-    }
-</script>
-
--->
