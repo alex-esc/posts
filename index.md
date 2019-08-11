@@ -39,7 +39,7 @@ excerpt_separator: <!--more-->
     </a>
   </h3>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  {{ post.content | strip_html | truncatewords: 50 }}
+  {{ post.excerpt | strip_html }}
 </article>
 
 {% endfor %}
