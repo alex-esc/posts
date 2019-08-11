@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "default"
 title: "Team Human by Douglas Rushkoff - Book Review"
 ---
 
