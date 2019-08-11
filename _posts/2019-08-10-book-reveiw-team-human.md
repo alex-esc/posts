@@ -95,6 +95,8 @@ https://alex-esc.github.io/posts/ebook-setup.html
 
 look at this!
 
+<!--
+
 <script>
     var headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]");
 
@@ -105,3 +107,5 @@ look at this!
             '</a>';
     }
 </script>
+
+-->
