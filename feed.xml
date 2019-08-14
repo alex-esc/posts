@@ -19,7 +19,3 @@ layout: none
     {% endfor %}
   </channel>
 </rss>
-
-
-{{ site.path }}
-path
