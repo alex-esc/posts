@@ -16,6 +16,9 @@ title: Future posts
 * Elon Musk's Neuralink is not disruptive & it shows what's wrong with digital technologies
 * How to make a GitHub Pages Blog - A journal
 * More about Digital Rights...
+* Is PewDiePie racist or not?
+* Does free software actually liberates users?
+* Some alternatives platforms are actually better than the real thing
 
 ## Suggest a topic or idea
 
