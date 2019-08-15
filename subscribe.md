@@ -8,30 +8,31 @@ title: Subscribe
 ---
 
 <div style="text-align:center">    
-  <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail.</a>*
+  <a href="https://alex-esc.github.io/posts/feed.xml">RSS feed</a>
+</div>
+
+
+<div style="text-align:center">    
+  <a href="https://feedburner.google.com/fb/a/mailverify?uri=alex-esc&amp;loc=en_US">Via e-mail</a>*
+</div>
+
+
+<div style="text-align:center">    
+  <a href="https://bots.tinysubversions.com/u/alex_esc_blog_posts">Via on Mastodon</a>
 </div>
 
 <div style="text-align:center">    
-  <a href="https://alex-esc.github.io/posts/feed.xml">RSS feed.</a>
+  <a href="https://twitter.com/alex_esc_tweets">Via twitter</a>
+</div>
+
+
+<div style="text-align:center">    
+  <a href="https://www.reddit.com/r/alex_esc_reddit/">Via reddit</a>
 </div>
 
 <div style="text-align:center">    
-  <a href="https://alex-esc.github.io/posts/follow-me-on-mastodon.html">Follow me on Mastodon.</a>
+  <a href="https://medium.com/@alexesc">Follow my best post on medium</a>
 </div>
-
-<div style="text-align:center">    
-  <a href="https://twitter.com/alex_esc_tweets">Follow me on twitter.</a>
-</div>
-
-<div style="text-align:center">    
-  <a href="https://medium.com/@alexesc">Follow me on medium.</a>
-</div>
-
-<div style="text-align:center">    
-  <a href="https://www.reddit.com/r/alex_esc_reddit/">Subscribe on reddit.</a>
-</div>
-
-
 
 
 ---

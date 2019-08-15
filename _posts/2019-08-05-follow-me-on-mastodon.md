@@ -8,11 +8,17 @@ Thanks to [write.as][1] you can now follow this blog on the fediverse.
 <!--more-->
 
 
+> **Important:** the account *@alexesc@write.as* will not be used any longer, [read the reasons behind this change][ch]. To stay up to date with my posts via Mastodon there's a new updated link on the subscribe button at the top of the page.
+> 
+> The post will remained as it was before the changes noted above.
+
+[ch]: https://alex-esc.github.io/posts/follow-the-blog-on-mastodon.html
+
 TL;DR
 
 | Blog posts only   | My personal account |
 |:------------------|--------------------:|
-| @alexesc@write.as | @alexesc@librem.one |
+| Click subscribe at the top | @alexesc@librem.one |
 
 
 You can follow this blog on **@alexesc@write.as** inside a Mastodon app or [click here][2] to see my Mastodon profile on a browser.
