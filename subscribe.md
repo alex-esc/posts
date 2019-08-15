@@ -31,7 +31,7 @@ title: Subscribe
 </div>
 
 <div style="text-align:center">    
-  <a href="https://medium.com/@alexesc">Follow my best post on medium</a>
+  <a href="https://medium.com/@alexesc">Highlights on medium</a>
 </div>
 
 
