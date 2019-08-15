@@ -20,7 +20,6 @@ Keybase is a platform that verifies Internet users via access to physical device
 
 ## Other Internet accounts
 
-I am `alex-esc` at GitHub, my current Reddit account is `alex_esc`, my old Reddit account was `jet_so`, my old Twitter was `@jet_so` and my mastodon.social is `@jet_so`.
 
 I hereby declare the end of my flesh and the beginning of my `bits`, I will not conform to my earthly identity as the whole in itself but as a means to the goal of achieving the actual *me*.
 
