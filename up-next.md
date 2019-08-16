@@ -9,7 +9,6 @@ title: Future posts
 * About privacy nihilism
 * Software choice is not a solution for surveillance capitalism
 * You're being used by an idea virus to push someone else's politics
-* Freedom is a verb, not a noun
 
 
 # Planned posts

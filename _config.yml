@@ -4,7 +4,7 @@
 title:   'Blog Posts By Alex-Esc'
 author: 
   name:  'Blog Posts'
-description:  My personal blog
+description:  I write about art & tech.
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
