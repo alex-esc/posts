@@ -9,7 +9,16 @@ Let me explain myself, let's use a hot button issue as an example: _Trump_.
 
 Depending of what side of the debate you are on, you can bet your bottom dollar that at least someone, somewhere just jumped from their seat either in anger or excitement simply by reading those five letters that make up the current US president. You can hear the tribal drums beating in the distance as once side of the political debate shouts the latest trump catchphrase to the rhythm of a war chant followed by another distant tribe screaming in anger.
 
+<center>
+
 <iframe id='ivplayer' type='text/html' width='640' height='360'       src='https://invidio.us/embed/wstIBq2H0z8?' frameborder='0'></iframe>
+
+</center>
+
+> Early human tribes fighting and screaming at each other, taken from [Stanley Kubrik's 1968 film *2001: A Space Odyssey*][0].
+
+[0]: https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
+
 
 "So uncivilized" says one random Internet user on a comment thread, he accuses the opposition of the movement that is so close to his heart of being like a tribe or a cult, he smashes his enter key and the comment has been posted besides his "ironic meme" or anime profile picture. This back and forth of insults and "logical arguments" to "destroy" other people like you and me is the fuel of the fire that is the cycle of toxic memes.
 
