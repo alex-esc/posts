@@ -54,6 +54,13 @@ Find older blog posts on the _[archive](archive.md)_, or follow me via _[RSS](fe
 
 See my [future posts list](up-next.md).
 
+## Websites, Blogs, articles, videos & books I recommend:
+
+Check out my Web recommendations on my [linkbox][lb1].
+
+[lb1]: https://alex-esc.github.io/url/linkbox
+
+
 All my blog posts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][l].
 
 
