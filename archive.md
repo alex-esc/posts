@@ -21,9 +21,9 @@ The content on this archive is written by Alex Esc. ([about me][me]) and its lic
 [l]: https://creativecommons.org/licenses/by-sa/4.0/
 [me]: https://alex-esc.github.io/en_us/pages/about.html
 
-# Posts in reverse chronological oder
+# Recent blog posts
 
-{% for post in site.posts %}
+{% for post in site.posts limit:10 %}
 
 <div>
   {{ post.date | date: "%b %-d, %Y" }}
@@ -32,6 +32,10 @@ The content on this archive is written by Alex Esc. ([about me][me]) and its lic
     <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
   </span>
 </div>
+
+{% endfor %}
+
+# [Full list](post-list.md)
 
 {% endfor %}
 
