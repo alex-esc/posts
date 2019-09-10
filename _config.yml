@@ -17,6 +17,20 @@ baseurl: '/posts'
 ########
 # more settings
 
+
+webmentions:
+  username: alex-esc.github.io_posts_
+  # Use my own cache folder
+  cache_folder: .cache
+  # skip bad URLs for 5 days
+  cache_bad_uris_for: 5
+  # I moved to www and then to https, so…
+  pages: true
+  collections: true
+  collections:
+    - links
+
+
 markdown: kramdown
 
 sass:
