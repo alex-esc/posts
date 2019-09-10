@@ -37,6 +37,5 @@ The content on this archive is written by Alex Esc. ([about me][me]) and its lic
 
 # [Full list](post-list.md)
 
-{% endfor %}
 
 [dl]: https://github.com/alex-esc/posts/archive/master.zip
