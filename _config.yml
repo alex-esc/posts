@@ -34,6 +34,7 @@ lsi: false
 
 plugins:
   - jekyll-redirect-from
+  - gem 'jekyll-webmention_io'
 
 excerpt_separator: <!--more-->
 
