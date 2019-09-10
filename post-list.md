@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog posts in reverse chronological order
+title: Post list
 redirect_from:
 - /allposts.html
 - /postlist.html
@@ -12,6 +12,7 @@ redirect_from:
 - /blogpostlist.html
 ---
 
+# Blog posts in reverse chronological order
 
 {% for post in site.posts %}
 
