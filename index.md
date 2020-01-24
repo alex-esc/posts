@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 ---
 
 
+
 ## Latest Post
 
 
@@ -16,6 +17,7 @@ excerpt_separator: <!--more-->
   <h1 class='post-title'>
     <a href="{{ site.path }}{{ post.url }}">
       {{ post.title }}
+    </a>
   </h1>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
   {{ post.content }}
