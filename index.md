@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-
+https://github.com/alex-esc/notes/blob/master/_posts/2019-05-25-lesson-1.md
 ## Latest Post
 
 
@@ -18,6 +18,12 @@ excerpt_separator: <!--more-->
     <a href="{{ site.path }}{{ post.url }}">
       {{ post.title }}
     </a>
+
+  <a href="https://github.com/alex-esc/notes/blob/master/{{page.relative_path}}">
+      edit
+    </a>
+
+
   </h1>
   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
   {{ post.content }}
