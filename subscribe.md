@@ -18,7 +18,7 @@ title: Subscribe
 
 
 <div style="text-align:center">    
-  <a href="https://bots.tinysubversions.com/u/alex_esc_blog_posts">Via Mastodon</a>
+  <a href="https://bots.tinysubversions.com/u/alex_esc_blog">Via Mastodon</a>
 </div>
 
 <div style="text-align:center">    
