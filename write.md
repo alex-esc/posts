@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Write a post"
+---
 
 <center>
 
@@ -10,4 +11,4 @@ title: "Write a post"
   window.open('https://github.com/alex-esc/notes/new/master/_posts');
   ">Login and start writing</a></h1>
   
-  </center>
+</center>
