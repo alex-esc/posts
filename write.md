@@ -6,7 +6,7 @@ title: "Write a post"
 <center>
 
 <h1><a href="#" onclick="
-  window.open('https://raw.githubusercontent.com/alex-esc/notes/master/preset-raw-copy-paste/1st.md');
+  window.open('https://raw.githubusercontent.com/alex-esc/posts/master/preset.txt');
   window.open('https://markdown.pioul.fr/');
   window.open('https://github.com/alex-esc/posts/new/master/_posts');
   window.open('https://app.keeweb.info/');
