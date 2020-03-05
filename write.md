@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "default"
 title: "Write a post"
 ---
 
@@ -12,3 +12,5 @@ title: "Write a post"
   ">Login and start writing</a></h1>
   
 </center>
+
+Enable pop-ups on this site (`https://alex-esc.github.io/posts/`) for the link up top to work. If properly configured it will open a Markdown writing tool, a preset and a log in page.
