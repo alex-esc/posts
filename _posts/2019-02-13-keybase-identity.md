@@ -25,6 +25,7 @@ I hereby declare the end of my flesh and the beginning of my `bits`, I will not 
 
 | identity  |  currently active account   |   old account           |
 |:----------|:----------------------------|:------------------------|
+| E-mail    | alexesc at disroot dot org  |  -                      |
 | GitHub    | alex-esc                    |  -                      |
 | Reddit    | alex-esc                    | @jet_so                 |
 | Mastodon  | @alexesc@librem.one         | @jet_so@mastodon.social |
