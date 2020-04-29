@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: "post"
 title: "Why I left librem social"
 ---
 
