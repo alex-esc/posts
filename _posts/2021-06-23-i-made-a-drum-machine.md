@@ -70,4 +70,4 @@ You can follow the github repo for updates, follow this blog or every once in a 
 
 So that's why I have been missing for almost a year. I was over at my cave programming my own drum machine.
 
-If you're interested on a more technical description of how BONIFRE works and the history of its development I wrote [this just for you](https://alex-esc.github.io/bonfire/about). This post tends to focus more on the usability and musicality of the story.
+If you're interested on a more technical description of how BONIFRE works and the history of its development I wrote [this just for you](https://alex-esc.github.io/bonfire/about.html). This post tends to focus more on the usability and musicality of the story.
